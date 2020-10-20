@@ -17,7 +17,7 @@
 ![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=sharpista&count_private=true&show_icons=true&theme=vue) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharpista&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Badge](https://img.shields.io/github/followers/sharpista?label=sharpista&style=for-the-badge&link=https://github.com/sharpista)](https://github.com/sharpista)
-[![LinkedIn Badge](https://img.shields.io/badge/-Alexandre Filho-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-rdsf/)](https://www.linkedin.com/in/alexandre-rdsf/)
+[![LinkedIn Badge](https://img.shields.io/badge/-sharpista-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-rdsf/)](https://www.linkedin.com/in/alexandre-rdsf/)
 [![Email Badge](https://img.shields.io/badge/contact-alexandrerobertofilho@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/alexandre-rdsf//)](https://www.linkedin.com/in/alexandre-rdsf//)
  
  ## :hammer: Languages and Tools
