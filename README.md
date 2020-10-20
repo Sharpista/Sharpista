@@ -4,7 +4,7 @@
 ### Hi there <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">, I'm Alexandre Filho! 
  
 ## :triangular_flag_on_post: Technical skills
-- Programming languages: C# :heart: and Python :python:;
+- Programming languages: C# :heart: and Python :snake:;
 - Database / Data structure store: Mysql, SQL Server and Firebase;
 - Computational techniques: Clean Code, Solid and DDD.
 
