@@ -18,7 +18,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/thiagocruzrj?label=thiagocruzrj&style=for-the-badge&link=https://github.com/sharpista)](https://github.com/sharpista)
 [![LinkedIn Badge](https://img.shields.io/badge/-sharpista-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-rdsf/)](https://www.linkedin.com/in/alexandre-rdsf/)
-[![Email Badge](https://img.shields.io/badge/contact-alexandrerobertofilho@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/thiago-cruz-07205859//)](https://www.linkedin.com/in/thiago-cruz-07205859//)
+[![Email Badge](https://img.shields.io/badge/contact-alexandrerobertofilho@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/alexandre-rdsf//)](https://www.linkedin.com/in/alexandre-rdsf//)
  
  ## :hammer: Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
