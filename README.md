@@ -5,10 +5,10 @@
  
 ## :triangular_flag_on_post: Technical skills
 - Programming languages: C# :heart: and Python :snake:;
-- Database / Data structure store: Mysql, SQL Server and Firebase;
+- Database / Data structure store: MySql, SQL Server, Oracle, and Firebase;
 - Computational techniques: Clean Code, Solid and DDD.
 
-<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/65/d9/ea/65d9ea5c38fd6750eb8f25a5d3c35580.jpg">
+<img align="right" width="400" height="400" src="https://giphy.com/gifs/theoffice-nbc-the-office-tv-0owap7cyOBVZO45ZNO">
  
 ## :hammer: Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
