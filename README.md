@@ -19,7 +19,7 @@
 
 ## 💬 For know more about me
 
-.NET Developer
+Software Developer
 
 ![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=sharpista&count_private=true&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharpista&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
