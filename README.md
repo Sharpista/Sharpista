@@ -8,7 +8,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  src="https://giphy.com/embed/mWY8bJS2bplx6">
+  <img align="right"  src="https://media.giphy.com/media/mWY8bJS2bplx6/giphy-downsized-large.gif">
 </div>
   
   ##
